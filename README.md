@@ -3,9 +3,9 @@ I once put instant coffee in a microwave and went back in time.
 Javascript software developer with over 15 years experience in audio production and digital communications.
 Currently learning to develop audio plugins and virtual instruments for musicians and music producers. I also have experience in HTML5, CSS3, and Python.
 
-amallucent@yahoo.com
-https://www.linkedin.com/in/isaac-pea/
-https://www.facebook.com/isaac.pea/
+- amallucent@yahoo.com
+- https://www.linkedin.com/in/isaac-pea/
+- https://www.facebook.com/isaac.pea/
 
 
 
